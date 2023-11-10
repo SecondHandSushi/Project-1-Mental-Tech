@@ -23,7 +23,11 @@ Rough breakdown of tasks:
 
 November 9, 2023 discussion
 Scope creep: exclude questions concerning coworkers, self-employed, friends, family, previous employers
+
 Multiple years: start with all years (2014, not 2015 – 2019)
+
 From Cindy’s list:  # - exclude, tabbed in – keep, ? – review
+
 Cindy – 2014 review and clean data, Heather - take 2017, Brady – take 2019, Matthew – take 2018
+
 Next steps: review datasets and discuss how much data differs between years.

@@ -21,9 +21,14 @@
 - debugging / QA / regression
 - slide deck
 
-November 9, 2023 discussion
+### November 9, 2023 discussion
 - Scope creep: exclude questions concerning coworkers, self-employed, friends, family, previous employers
 - Multiple years: start with all years (2014, not 2015 – 2019)
 - From Cindy’s list:  # - exclude, tabbed in – keep, ? – review
 - Cindy – 2014 review and clean data, Heather - take 2017, Brady – take 2019, Matthew – take 2018
 - Next steps: review datasets and discuss how much data differs between years.
+
+### Data Cleanup
+- Removed 3 rows based on age: 3 years old, 99 years old, 323 years old (Below 18 and above 75)
+- Created categories for gender since the original data had open responses. Categories are: TBD
+- For blank responses: filled with "No Response"

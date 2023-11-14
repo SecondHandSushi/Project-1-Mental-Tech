@@ -4,7 +4,7 @@
 - Project Description: Look for trends in employees’ level of comfort discussing mental health in the technology industry between 2014 and 2019.
 
 ### Research questions:
-- Which variables impact a technology associate's comfort/willingness to discuss mental health with employers? (look at states, countries, gender, age/generation, contribution level - individual, management, C-suite, work location (remote or not), diagnosed or undiagnosed mental health condition, tech industry/job, size of company, etc.)
+- Which variables impact a technology associate's comfort/willingness to discuss mental health with employers? (look at states, countries, gender, age/generation, contribution level - individual, management, C-suite, work location (remote or not), diagnosed or undiagnosed mental health condition, tech industry/job, size of company, having a mental health disorder in the past)
 - Do employees feel more comfortable talking about physical or mental health?
 - What is the level of ease for taking a leave of absence for mental health in the tech industry?
 

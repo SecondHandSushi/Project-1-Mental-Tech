@@ -1,7 +1,7 @@
 # Group 5 - one page project proposal November 7, 2023
 ## Title: Level of comfort discussing mental health with employers in the technology world
-# Team members: Matthew Idle, Chad Fletcher, Lori Vitaioli, Brady Ogega, Cindy Hansel, Heather Shoberg, Jennifer White
-# Project Description: Look for trends in employees’ level of comfort discussing mental health in the technology industry between 2016 and 2019.
+### Team members: Matthew Idle, Chad Fletcher, Lori Vitaioli, Brady Ogega, Cindy Hansel, Heather Shoberg, Jennifer White
+### Project Description: Look for trends in employees’ level of comfort discussing mental health in the technology industry between 2016 and 2019.
 
 ### Research Question (2016 only):
 - Which variables impact a technology associate's comfort/willingness to discuss mental health with employers? (look at states, countries, gender, age/generation, contribution level - individual, management, C-suite, work location (remote or not), diagnosed or undiagnosed mental health condition, tech industry/job, size of company, having a mental health disorder in the past)

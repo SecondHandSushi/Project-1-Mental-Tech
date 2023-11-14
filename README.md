@@ -31,4 +31,5 @@
 ### Data Cleanup
 - Removed 3 rows based on age: 3 years old, 99 years old, 323 years old (Below 18 and above 75)
 - Created categories for gender since the original data had open responses. Categories are: TBD
+- Renamed columns to be shorter descriptions of the questions
 - For blank responses: filled with "No Response"

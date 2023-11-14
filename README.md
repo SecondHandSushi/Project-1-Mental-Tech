@@ -11,6 +11,7 @@
 ### Datasets to be used: 
 - https://www.kaggle.com/datasets/osmihelp/osmi-mental-health-in-tech-survey-2017
 - https://www.kaggle.com/datasets/osmi/mental-health-in-tech-2016
+- https://osmihelp.org/research.html
 
 ### Rough breakdown of tasks:
 - Matt - repo master, version control of the branches

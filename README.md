@@ -33,7 +33,7 @@
 - Next steps: review datasets and discuss how much data differs between years.
 
 ### Data Cleanup
-- Removed questions that were unrelated to our research questions
+- Removed survey questions that were unrelated to our research questions
 - Removed 3 rows based on age: 3 years old, 99 years old, 323 years old (Below 18 and above 75)
 - Created categories for gender since the original data had open responses. Categories are: TBD
 - Renamed columns to be shorter descriptions of the questions

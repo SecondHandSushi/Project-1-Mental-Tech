@@ -46,9 +46,9 @@
   -	Added ‘cur’ and ‘prev’ for “willing to discuss with supervisor” question
   -	Cindy will look at 2016 – 2019 datasets to merge and look at trends over time
   -	Rest of us: 
-    -	gender vs. Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)? comf_discuss_mh_disorder_cur_superv - Lori
-    -	age band vs. Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)? comf_discuss_mh_disorder_cur_superv - Matt
-    -	size of employer vs. Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)? comf_discuss_mh_disorder_cur_superv - Brady
-    -	country vs. Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)? comf_discuss_mh_disorder_cur_superv - Heather
-    - remote vs. Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)? comf_discuss_mh_disorder_cur_superv - Chad
-    -	Diagnosis vs. Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)? comf_discuss_mh_disorder_cur_superv - Jennifer
+    -	gender vs. Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)?  - Lori
+    -	age band vs. Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)?  - Matt
+    -	size of employer vs. Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)?  - Brady
+    -	country vs. Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)? - Heather
+    - remote vs. Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)?  - Chad
+    -	Diagnosis vs. Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)?  - Jennifer

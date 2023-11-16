@@ -38,3 +38,16 @@
 - Created categories for gender since the original data had open responses. Categories are: TBD
 - Renamed columns to be shorter descriptions of the questions
 - For blank responses: filled with "No Response"
+- 
+### November 14, 2023 discussion
+  -	Make bins for ages – 18 – 24, 25 – 34, 35 – 44, 45 – 54, 55 – 64, 65 – 74, 75+
+  -	Fill blanks with No Response – 1428 total responses. Consider how “no response” will impact number analysis.
+  -	Added ‘cur’ and ‘prev’ for “willing to discuss with supervisor” question
+  -	Cindy will look at 2016 – 2019 datasets to merge and look at trends over time
+  -	Rest of us: 
+    -	gender vs. Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)? - Lori
+    -	age band vs. Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)? - Matt
+    -	size of employer vs. Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)? - Brady
+    -	country vs. Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)? - Heather
+    - remote vs. Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)? - Chad
+    -	Diagnosis vs. Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)? - Jennifer

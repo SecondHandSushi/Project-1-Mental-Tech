@@ -2621,7 +2621,7 @@
 2619,41.0,Male,male,United States of America,6-25,No,Don't Know,No,No,No,Somewhat easy,35-44,2019,2620
 2620,40.0,f,female,United States of America,100-500,Yes,Yes,Yes,No,No,I don't know,35-44,2019,2621
 2621,37.0,male,male,United States of America,500-1000,No,Yes,Yes,Yes,No,Neither easy nor difficult,35-44,2019,2622
-2622,53.0,"Let's keep it simple and say ""male""",,United States of America,100-500,Yes,Yes,Possibly,No,No,Neither easy nor difficult,45-54,2019,2623
+2622,53.0,"Let's keep it simple and say ""male""",male,United States of America,100-500,Yes,Yes,Possibly,No,No,Neither easy nor difficult,45-54,2019,2623
 2623,29.0,male,male,United States of America,6-25,No,Possibly,No,Yes,No,Very easy,25-34,2019,2624
 2624,37.0,Male,male,United States of America,500-1000,No,Yes,Yes,Maybe,Maybe,Somewhat easy,35-44,2019,2625
 2625,45.0,female,female,United States of America,100-500,No,Yes,Yes,No,No,Somewhat easy,45-54,2019,2626
@@ -2642,7 +2642,7 @@
 2640,41.0,Male,male,United States of America,100-500,Yes,Yes,Yes,No,No,Somewhat easy,35-44,2019,2641
 2641,40.0,male,male,Croatia,26-100,No,Don't Know,Possibly,No,No,Neither easy nor difficult,35-44,2019,2642
 2642,28.0,Male,male,Belgium,No Response,No Response,Yes,Yes,Yes,Maybe,No Response,25-34,2019,2643
-2643,49.0,Identify as male,,Other,1-5,No,Possibly,No,No,Maybe,Somewhat difficult,45-54,2019,2644
+2643,49.0,Identify as male,male,Other,1-5,No,Possibly,No,No,Maybe,Somewhat difficult,45-54,2019,2644
 2644,37.0,Male,male,United States of America,More than 1000,No,Yes,Yes,No,No,Very easy,35-44,2019,2645
 2645,36.0,m,male,United States of America,No Response,No Response,Possibly,Yes,Maybe,Maybe,No Response,35-44,2019,2646
 2646,52.0,Male,male,United States of America,6-25,Yes,Yes,Possibly,Yes,No,Very easy,45-54,2019,2647
@@ -2677,7 +2677,7 @@
 2675,34.0,M,male,Portugal,500-1000,No,Possibly,No,No,No,Somewhat easy,25-34,2019,2676
 2676,40.0,M,male,Portugal,100-500,No,No,Possibly,Maybe,No,Very easy,35-44,2019,2677
 2677,31.0,Non binary,other,Portugal,500-1000,No,No,Possibly,No,No,I don't know,25-34,2019,2678
-2678,27.0,Masculine,,Portugal,100-500,No,No,No,Maybe,No,I don't know,25-34,2019,2679
+2678,27.0,Masculine,male,Portugal,100-500,No,No,No,Maybe,No,I don't know,25-34,2019,2679
 2679,47.0,M,male,United States of America,More than 1000,Yes,No,Possibly,No,No,Somewhat easy,45-54,2019,2680
 2680,24.0,Female,female,United States of America,100-500,No,Possibly,Yes,No,No,Difficult,18-24,2019,2681
 2681,36.0,Male,male,Portugal,100-500,No,No,No,Maybe,No,Somewhat easy,35-44,2019,2682
@@ -2686,7 +2686,7 @@
 2684,28.0,Male,male,Portugal,100-500,No,No,No,Maybe,No,Somewhat easy,25-34,2019,2685
 2685,36.0,M,male,Portugal,500-1000,No,Possibly,No,Yes,No,I don't know,35-44,2019,2686
 2686,24.0,male,male,Portugal,100-500,I don't know,No,Don't Know,Maybe,Maybe,Somewhat easy,18-24,2019,2687
-2687,32.0,Cishet male,,United States of America,6-25,No,Possibly,Possibly,Maybe,No,I don't know,25-34,2019,2688
+2687,32.0,Cishet male,male,United States of America,6-25,No,Possibly,Possibly,Maybe,No,I don't know,25-34,2019,2688
 2688,33.0,Male,male,United Kingdom,26-100,Yes,Yes,Yes,Maybe,Maybe,Very easy,25-34,2019,2689
 2689,39.0,Male,male,United States of America,100-500,I don't know,No,No,Yes,Maybe,Somewhat easy,35-44,2019,2690
 2690,26.0,female,female,United States of America,More than 1000,No,Yes,Yes,Maybe,Maybe,I don't know,25-34,2019,2691
@@ -2704,7 +2704,7 @@
 2702,30.0,Male,male,United States of America,More than 1000,Yes,No,No,Yes,Yes,Very easy,25-34,2019,2703
 2703,48.0,Male,male,United Kingdom,No Response,No Response,Yes,Possibly,Maybe,No,No Response,45-54,2019,2704
 2704,29.0,Male,male,Portugal,100-500,No,Don't Know,Possibly,Maybe,No,Somewhat difficult,25-34,2019,2705
-2705,35.0,Female-identified,,Canada,No Response,No Response,Yes,Yes,Maybe,Yes,No Response,35-44,2019,2706
+2705,35.0,Female-identified,female,Canada,No Response,No Response,Yes,Yes,Maybe,Yes,No Response,35-44,2019,2706
 2706,41.0,Male,male,United States of America,100-500,No,No Response,Yes,Maybe,No,I don't know,35-44,2019,2707
 2707,27.0,F,female,United States of America,26-100,No,No,Possibly,Maybe,No,Neither easy nor difficult,25-34,2019,2708
 2708,42.0,Male,male,United States of America,6-25,No,Yes,Possibly,Yes,Maybe,Very easy,35-44,2019,2709
@@ -2731,7 +2731,7 @@
 2729,42.0,Male,male,United States of America,More than 1000,No,No,No,Yes,Yes,I don't know,35-44,2019,2730
 2730,42.0,Male,male,United States of America,6-25,No,Yes,Yes,Yes,Maybe,Somewhat easy,35-44,2019,2731
 2731,38.0,Male,male,Canada,26-100,No,Yes,Yes,No,No,I don't know,35-44,2019,2732
-2732,33.0,agender,,United States of America,More than 1000,No,Yes,Yes,No,No,Somewhat easy,25-34,2019,2733
+2732,33.0,agender,other,United States of America,More than 1000,No,Yes,Yes,No,No,Somewhat easy,25-34,2019,2733
 2733,35.0,Male,male,United States of America,100-500,I don't know,Yes,Yes,Maybe,No,I don't know,35-44,2019,2734
 2734,27.0,Female,female,Spain,100-500,No,Possibly,Possibly,No,No,Somewhat easy,25-34,2019,2735
 2735,28.0,Female,female,Turkey,More than 1000,Yes,No,No,Maybe,Maybe,Somewhat easy,25-34,2019,2736
@@ -2754,7 +2754,7 @@
 2752,28.0,Male,male,United States of America,100-500,Yes,Yes,Yes,Maybe,No,Somewhat difficult,25-34,2019,2753
 2753,49.0,Female,female,Canada,More than 1000,No,Yes,Yes,No,No,Somewhat difficult,45-54,2019,2754
 2754,23.0,Male,male,United Kingdom,More than 1000,No,Possibly,Possibly,Yes,No,Somewhat difficult,18-24,2019,2755
-2755,23.0,Questioning,,United States of America,More than 1000,Yes,Yes,Yes,No,No,I don't know,18-24,2019,2756
+2755,23.0,Questioning,other,United States of America,More than 1000,Yes,Yes,Yes,No,No,I don't know,18-24,2019,2756
 2756,38.0,cis male,male,United States of America,No Response,No Response,Yes,Yes,Maybe,No,No Response,35-44,2019,2757
 2757,45.0,Male,male,United States of America,1-5,I don't know,Yes,Yes,Maybe,Maybe,Very easy,45-54,2019,2758
 2758,35.0,male,male,United States of America,No Response,No Response,Possibly,Possibly,No,No,No Response,35-44,2019,2759
@@ -2792,7 +2792,7 @@
 2790,32.0,male,male,United States of America,More than 1000,No,No,Possibly,Maybe,No,Somewhat difficult,25-34,2019,2791
 2791,28.0,Male,male,Norway,More than 1000,No,Possibly,No,Yes,No,Very easy,25-34,2019,2792
 2792,36.0,Male,male,United States of America,More than 1000,I don't know,No,Yes,No,No,Neither easy nor difficult,35-44,2019,2793
-2793,28.0,cis woman,,United States of America,More than 1000,No,Yes,Don't Know,No,No,Somewhat difficult,25-34,2019,2794
+2793,28.0,cis woman,female,United States of America,More than 1000,No,Yes,Don't Know,No,No,Somewhat difficult,25-34,2019,2794
 2794,30.0,Female,female,United States of America,No Response,No Response,Yes,Yes,Maybe,No,No Response,25-34,2019,2795
 2795,36.0,Male,male,United States of America,More than 1000,Yes,No,No,No,No,Very easy,35-44,2019,2796
 2796,40.0,Male,male,United States of America,6-25,No,Yes,Yes,Maybe,Yes,Somewhat difficult,35-44,2019,2797
@@ -2805,7 +2805,7 @@
 2803,44.0,female,female,United States of America,More than 1000,No,Yes,Possibly,No,No,Neither easy nor difficult,35-44,2019,2804
 2804,36.0,Male,male,Mexico,100-500,No,Possibly,Yes,Yes,Yes,Neither easy nor difficult,35-44,2019,2805
 2805,31.0,female,female,United States of America,More than 1000,Yes,Yes,Yes,No,No,Very easy,25-34,2019,2806
-2806,26.0,Agender trans woman,,United States of America,100-500,Yes,Yes,Yes,Yes,Yes,Neither easy nor difficult,25-34,2019,2807
+2806,26.0,Agender trans woman,other,United States of America,100-500,Yes,Yes,Yes,Yes,Yes,Neither easy nor difficult,25-34,2019,2807
 2807,39.0,male,male,United States of America,6-25,No,No,No,Maybe,Maybe,Very easy,35-44,2019,2808
 2808,36.0,Female,female,United States of America,More than 1000,Yes,Yes,Yes,Maybe,Maybe,Very easy,35-44,2019,2809
 2809,25.0,Female,female,United States of America,6-25,No,Yes,Yes,Yes,Maybe,Somewhat easy,25-34,2019,2810
@@ -2817,7 +2817,7 @@
 2815,19.0,female,female,United States of America,100-500,Yes,Yes,Yes,No,No,I don't know,18-24,2019,2816
 2816,35.0,Male,male,United States of America,6-25,No,Yes,Yes,No,No,Neither easy nor difficult,35-44,2019,2817
 2817,38.0,male,male,United States of America,26-100,No,Yes,Yes,Maybe,No,Somewhat difficult,35-44,2019,2818
-2818,23.0,femmina,,Italy,100-500,I don't know,No,No,Maybe,Maybe,Somewhat easy,18-24,2019,2819
+2818,23.0,femmina,female,Italy,100-500,I don't know,No,No,Maybe,Maybe,Somewhat easy,18-24,2019,2819
 2819,32.0,Male,male,United States of America,More than 1000,No,Yes,Yes,Yes,Maybe,Difficult,25-34,2019,2820
 2820,39.0,male,male,United States of America,No Response,No Response,Don't Know,Yes,No,No,No Response,35-44,2019,2821
 2821,33.0,Male,male,United States of America,More than 1000,No,No,No,Maybe,Maybe,Neither easy nor difficult,25-34,2019,2822
@@ -2861,7 +2861,7 @@
 2859,38.0,Male,male,Brazil,6-25,No,Possibly,Possibly,Maybe,Maybe,I don't know,35-44,2019,2860
 2860,25.0,male,male,India,26-100,Yes,No,No,Yes,Maybe,Somewhat easy,25-34,2019,2861
 2861,49.0,male,male,Canada,6-25,No,No Response,Yes,Maybe,Maybe,Very easy,45-54,2019,2862
-2862,19.0,masculino,,Brazil,More than 1000,No,Don't Know,Don't Know,No,No,Neither easy nor difficult,18-24,2019,2863
+2862,19.0,masculino,male,Brazil,More than 1000,No,Don't Know,Don't Know,No,No,Neither easy nor difficult,18-24,2019,2863
 2863,43.0,male,male,Brazil,No Response,No Response,No,Don't Know,No,No,No Response,35-44,2019,2864
 2864,31.0,Male,male,Brazil,500-1000,Yes,Possibly,Don't Know,Maybe,No,Difficult,25-34,2019,2865
 2865,30.0,Male,male,Brazil,More than 1000,Yes,Yes,Yes,Maybe,No,Somewhat difficult,25-34,2019,2866
@@ -2889,10 +2889,10 @@
 2887,32.0,female,female,United States of America,More than 1000,No,Yes,Yes,Maybe,No,Neither easy nor difficult,25-34,2019,2888
 2888,43.0,female,female,United States of America,More than 1000,Yes,Yes,Yes,Maybe,No,Difficult,35-44,2019,2889
 2889,37.0,Male,male,United States of America,No Response,No Response,No,No,Maybe,Maybe,No Response,35-44,2019,2890
-2890,51.0,Make,,United States of America,500-1000,I don't know,Possibly,Yes,No,No,Somewhat easy,45-54,2019,2891
+2890,51.0,Make,male,United States of America,500-1000,I don't know,Possibly,Yes,No,No,Somewhat easy,45-54,2019,2891
 2891,56.0,Male,male,United States of America,No Response,No Response,No,No,Maybe,Maybe,No Response,55-64,2019,2892
 2892,30.0,Male,male,United States of America,500-1000,Yes,Yes,Possibly,Yes,No,Neither easy nor difficult,25-34,2019,2893
-2893,48.0,Trans non-binary/genderfluid,,United States of America,26-100,No,No,No,Maybe,Maybe,Somewhat easy,45-54,2019,2894
+2893,48.0,Trans non-binary/genderfluid,other,United States of America,26-100,No,No,No,Maybe,Maybe,Somewhat easy,45-54,2019,2894
 2894,28.0,Female,female,United States of America,100-500,No,Yes,Yes,Maybe,No,Somewhat difficult,25-34,2019,2895
 2895,26.0,Female,female,United States of America,6-25,No,Yes,Yes,No,No,Somewhat easy,25-34,2019,2896
 2896,45.0,male,male,United States of America,6-25,No,No,No,No,No,Somewhat difficult,45-54,2019,2897
@@ -2912,13 +2912,13 @@
 2910,42.0,Female,female,United States of America,More than 1000,Yes,Possibly,No,Maybe,Maybe,Somewhat easy,35-44,2019,2911
 2911,21.0,Male,male,United States of America,100-500,No,Don't Know,Yes,Maybe,No,Very easy,18-24,2019,2912
 2912,30.0,female,female,United States of America,26-100,Yes,No,No,No,No,Somewhat difficult,25-34,2019,2913
-2913,46.0,CIS Male,,United States of America,100-500,Yes,Possibly,Yes,No,Maybe,I don't know,45-54,2019,2914
+2913,46.0,CIS Male,male,United States of America,100-500,Yes,Possibly,Yes,No,Maybe,I don't know,45-54,2019,2914
 2914,36.0,female,female,United States of America,No Response,No Response,Yes,Yes,No,No,No Response,35-44,2019,2915
 2915,41.0,Male,male,India,More than 1000,No,No,No,Yes,Maybe,Somewhat difficult,35-44,2019,2916
 2916,33.0,Female,female,Portugal,No Response,No Response,Yes,Yes,Maybe,No,No Response,25-34,2019,2917
 2917,41.0,m,male,Estonia,1-5,No,Yes,Yes,Yes,Maybe,Somewhat difficult,35-44,2019,2918
 2918,25.0,Male,male,United Kingdom,More than 1000,No,Possibly,Possibly,Maybe,No,Somewhat easy,25-34,2019,2919
-2919,27.0,agender,,Germany,6-25,Yes,Yes,Yes,Maybe,Maybe,Somewhat difficult,25-34,2019,2920
+2919,27.0,agender,other,Germany,6-25,Yes,Yes,Yes,Maybe,Maybe,Somewhat difficult,25-34,2019,2920
 2920,47.0,Female,female,United States of America,More than 1000,Yes,Yes,Yes,No,No,I don't know,45-54,2019,2921
 2921,24.0,Male,male,United States of America,26-100,No,Yes,Yes,Yes,No,Somewhat easy,18-24,2019,2922
 2922,40.0,male,male,United States of America,More than 1000,Yes,No,Yes,No,No,Somewhat easy,35-44,2019,2923
@@ -2934,7 +2934,7 @@
 2932,47.0,male,male,United States of America,More than 1000,No,Yes,Yes,Maybe,No,Very easy,45-54,2019,2933
 2933,29.0,Male,male,Poland,More than 1000,No,No,No,No,No,I don't know,25-34,2019,2934
 2934,55.0,M,male,United States of America,More than 1000,Yes,No,No,Yes,No,Somewhat easy,55-64,2019,2935
-2935,34.0,Non-binary and gender fluid,,United States of America,500-1000,I don't know,Yes,Yes,Maybe,No,Very easy,25-34,2019,2936
+2935,34.0,Non-binary and gender fluid,other,United States of America,500-1000,I don't know,Yes,Yes,Maybe,No,Very easy,25-34,2019,2936
 2936,45.0,Male,male,Japan,More than 1000,Yes,Possibly,No,Yes,Maybe,Somewhat easy,45-54,2019,2937
 2937,46.0,male,male,United Kingdom,More than 1000,Yes,Possibly,No,Yes,No,Neither easy nor difficult,45-54,2019,2938
 2938,23.0,Female,female,India,More than 1000,No,Possibly,Possibly,Yes,No,Somewhat difficult,18-24,2019,2939
@@ -2942,10 +2942,10 @@
 2940,30.0,Male,male,New Zealand,26-100,No,Yes,Yes,Yes,Maybe,Neither easy nor difficult,25-34,2019,2941
 2941,27.0,Male,male,United States of America,No Response,No Response,Yes,Yes,No,No,No Response,25-34,2019,2942
 2942,42.0,Female,female,United States of America,100-500,No,Yes,Yes,Maybe,No,Somewhat difficult,35-44,2019,2943
-2943,26.0,Femile,,Brazil,26-100,No,Yes,No,Yes,Maybe,Very easy,25-34,2019,2944
+2943,26.0,Femile,female,Brazil,26-100,No,Yes,No,Yes,Maybe,Very easy,25-34,2019,2944
 2944,31.0,female,female,United States of America,6-25,No,No,No,No,No,Very easy,25-34,2019,2945
 2945,27.0,male,male,India,More than 1000,No,No,Possibly,Maybe,No,Somewhat difficult,25-34,2019,2946
 2946,48.0,m,male,United States of America,No Response,No Response,No,No,Maybe,Maybe,No Response,45-54,2019,2947
 2947,50.0,M,male,India,No Response,No Response,No,No,Yes,No,No Response,45-54,2019,2948
 2948,30.0,female,female,India,More than 1000,No,No,Possibly,No,No,Difficult,25-34,2019,2949
-2949,24.0,Female (cis),,United States of America,More than 1000,No,Yes,Yes,Maybe,Yes,Somewhat difficult,18-24,2019,2950
+2949,24.0,Female (cis),female,United States of America,More than 1000,No,Yes,Yes,Maybe,Yes,Somewhat difficult,18-24,2019,2950

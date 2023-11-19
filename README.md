@@ -49,7 +49,7 @@
 - To accept our hypothesis, we would have needed to see lower proportions of male and other gender respondents answering "yes" and higher proportions of those same two groups responding "no" or "maybe". Based on our observations of the data, we do not see a large difference in the proportion of "yes" responses to the question. Therefore, we reject our hypothesis and accept our null hypothesis.
 - To answer the research question, the gender of respondents does not seem to have a noticeable impact on a technology employee’s comfort in discussing mental health with their employer.
 - Reference Chart Below:
-![Alt text](Figures/Comfort_by_Gender_Proportions_All.png)
+- ![Alt text](Figures/Comfort_by_Gender_Proportions_All.png)
 ### Age Range:
 - X
 ### Company Size:
@@ -59,7 +59,7 @@
 ### Remote Work: 
 - According to the data, there is not a strong correlation between working remotely and the employee's comfort/willingness to discuss mental health with employers. But the data does show that workers who never work remotely had the lowest amount of 'No' responses, which may show that showing up to work in person could have a small impact on the comfort/willingness to discuss mental health with their supervisor.
 - Reference Chart Below:
-![Alt text](Figures/remote_comf_sup.png)
+- ![Alt text](Figures/remote_comf_sup.png)
 ### Current and Previous Diagnosis:
 - X
 ## Research Question 2 Analysis: Do employees feel more comfortable talking about physical or mental health?

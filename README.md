@@ -51,3 +51,19 @@
     -	country vs. Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)? - Heather
     - remote vs. Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)? - Chad
     -	Diagnosis vs. Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)? - Jennifer
+
+### Questions List
+    'What is your age?', 
+    'What is your gender?',
+    'What country do you work in?', 
+    'Do you work remotely?',
+    'How many employees does your company or organization have?',
+    'Have you had a mental health disorder in the past?',
+    'Do you currently have a mental health disorder?',
+    'Would you be willing to bring up a physical health issue with a potential employer in an interview?',
+    'Would you bring up a mental health issue with a potential employer in an interview?',
+    'Have you observed or experienced an unsupportive or badly handled response to a mental health issue in your current or previous workplace?',
+    'Have your observations of how another individual who discussed a mental health disorder made you less likely to reveal a mental health issue yourself in your current workplace?',
+    'Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)?',
+    'Would you have been willing to discuss a mental health issue with your direct supervisor(s)?',
+    'If a mental health issue prompted you to request a medical leave from work, asking for that leave would be:'

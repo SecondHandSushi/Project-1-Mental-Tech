@@ -6,7 +6,7 @@
 - Look for trends in employees’ level of comfort discussing mental health in the technology industry between 2016 and 2019.
 
 ### Research Question (2016 only):
-- Which variables impact a technology associate's comfort/willingness to discuss mental health with employers? (look at states, countries, gender, age/generation, contribution level - individual, management, C-suite, work location (remote or not), diagnosed or undiagnosed mental health condition, tech industry/job, size of company, having a mental health disorder in the past)
+- Which variables impact a technology associate's comfort/willingness to discuss mental health with employers? (countries, gender, age range, work location (remote or not), diagnosed or undiagnosed mental health condition,  size of company)
 
 ### Research Questions (2016-2019):
 - Do employees feel more comfortable talking about physical or mental health?
@@ -38,17 +38,32 @@
 - Created categories for gender since the original data had open responses. Categories are: TBD
 - Renamed columns to be shorter descriptions of the questions
 - For blank responses: filled with "No Response"
-
-
+- 
 ### November 14, 2023 discussion
   -	Make bins for ages – 18 – 24, 25 – 34, 35 – 44, 45 – 54, 55 – 64, 65 – 74, 75+
   -	Fill blanks with No Response – 1428 total responses. Consider how “no response” will impact number analysis.
   -	Added ‘cur’ and ‘prev’ for “willing to discuss with supervisor” question
   -	Cindy will look at 2016 – 2019 datasets to merge and look at trends over time
   -	Rest of us: 
-    -	gender vs. Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)?  - Lori
-    -	age band vs. Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)?  - Matt
-    -	size of employer vs. Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)?  - Brady
+    -	gender vs. Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)? - Lori
+    -	age band vs. Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)? - Matt
+    -	size of employer vs. Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)? - Brady
     -	country vs. Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)? - Heather
-    - remote vs. Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)?  - Chad
-    -	Diagnosis vs. Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)?  - Jennifer
+    - remote vs. Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)? - Chad
+    -	Diagnosis vs. Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)? - Jennifer
+
+### Questions List
+    'What is your age?', 
+    'What is your gender?',
+    'What country do you work in?', 
+    'Do you work remotely?',
+    'How many employees does your company or organization have?',
+    'Have you had a mental health disorder in the past?',
+    'Do you currently have a mental health disorder?',
+    'Would you be willing to bring up a physical health issue with a potential employer in an interview?',
+    'Would you bring up a mental health issue with a potential employer in an interview?',
+    'Have you observed or experienced an unsupportive or badly handled response to a mental health issue in your current or previous workplace?',
+    'Have your observations of how another individual who discussed a mental health disorder made you less likely to reveal a mental health issue yourself in your current workplace?',
+    'Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)?',
+    'Would you have been willing to discuss a mental health issue with your direct supervisor(s)?',
+    'If a mental health issue prompted you to request a medical leave from work, asking for that leave would be:'

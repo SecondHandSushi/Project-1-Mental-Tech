@@ -69,7 +69,10 @@
 - Reference Chart Below:
 - ![Alt text](Figures/remote_comf_sup.png)
 ### Current and Previous Diagnosis:
-- X
+- Employees appear to be more comfortable talking with their employer if they have a previous mental health diagnosis or a possible previous mental health diagnosis.
+- Reference Charts Below:
+- ![Alt text](Figures/diagnosis_fullprevdiag.png)
+- ![Alt text](Figures/diagnosis_fullcurrentdiag.png)
 ## Research Question 2 Analysis: Do employees feel more comfortable talking about physical or mental health?
 - Team members created code for analyzing the percentage of respondents who said "Yes" to the following questions:
 - Would you be willing to bring up a physical health issue with a potential employer in an interview?
@@ -77,14 +80,19 @@
 - These percentages were compared over time to see if there were changes in the level of comfort discussing a physical vs mental health issue with employers over time.
 ## Research Question 3 Analysis: What is the level of ease for taking a leave of absence for mental health in the tech industry?
 - Team members created code to analyze the level of ease in requesting time off for mental health.
+### Compare respondent’s comfort talking to current supervisor about mental health issues and how easy it is to take medical leave:
+- According to the 2016 data, the easier it is to request medical leave, the more likely respondents felt comfortable talking to their supervisor about mental health.
+- Reference Chart Below:
+- ![Alt text](Figures/diagnosis_fullmedicalleave.png)
 ## Final Conclusions:
 ### Which variables impact a technology employee's comfort/willingness to discuss mental health with employers?
 1. **Gender** does not have a correlation to comfort in discussing mental health with employers
 2. **Remote Work** does not have a correlation to comfort in discussing mental health with employers
+3. **Current and Previous Diagnosis** has a positive correlation to comfort in discussing mental health with employers. Employees with a previous or potential previous mental health diagnosis found it easier to talk with their employer about mental health.
 ### Do employees feel more comfortable talking about physical or mental health?
 1. 
 ### What is the level of ease for taking a leave of absence for mental health in the tech industry?
-1. There is a negative correlation between difficulty requesting medical leave for mental health and comfort in talking with an employer about mental health. As it becomes more difficult to ask for medical leave for mental health, employees are less likely to talk to their employer about mental health.
+1. There is a positive correlation between the ease of requesting medical leave for mental health and comfort in talking with an employer about mental health. As it becomes easier to ask for medical leave for mental health, employees are more likely to talk to their employer about mental health.
 ## Next Steps:
 ### Future Research Projects
 - Impact of COVID on mental health of tech employees

@@ -70,9 +70,21 @@
 ## Research Question 3 Analysis: What is the level of ease for taking a leave of absence for mental health in the tech industry?
 - Team members created code to analyze the level of ease in requesting time off for mental health.
 ## Final Conclusions:
-1. Which variables impact a technology employee's comfort/willingness to discuss mental health with employers?
-  1. **Gender** does not have a correlation to comfort in discussing mental health with employers
-  2. **Remote Work** does not have a correlation to comfort in discussing mental health with employers
-3. Do employees feel more comfortable talking about physical or mental health?
-4. What is the level of ease for taking a leave of absence for mental health in the tech industry?
-  4. Negative correlation between difficulty requesting medical leave for mental health and comfort talking with an employer about mental health. As it becomes more difficult to ask for medical leave for mental health, employees are less likely to talk to their employer about mental health. 
+### Which variables impact a technology employee's comfort/willingness to discuss mental health with employers?
+1. **Gender** does not have a correlation to comfort in discussing mental health with employers
+2. **Remote Work** does not have a correlation to comfort in discussing mental health with employers
+### Do employees feel more comfortable talking about physical or mental health?
+1. 
+### What is the level of ease for taking a leave of absence for mental health in the tech industry?
+1. There is a negative correlation between difficulty requesting medical leave for mental health and comfort in talking with an employer about mental health. As it becomes more difficult to ask for medical leave for mental health, employees are less likely to talk to their employer about mental health.
+## Next Steps:
+### Future Research Projects
+- Impact of COVID on mental health of tech employees
+- Impacts of Return to Work mandates or lack of RtW mandates
+### Other Survey Questions to Consider
+- Analyzing the types of mental health diagnoses that showed up in later data sets and how they relate to the other questions
+### Suggestions for future surveys
+- Add remote worker designation question back into the surveys
+- The survey should include categories for gender so analysts do not have to determine gender categories, the respondents themselves can
+- Keep the questions consistent, try to avoid changing the phrasing of the question and response options
+- Response option for choosing not to answer

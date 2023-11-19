@@ -48,6 +48,7 @@
 ## Research Question 1 Analysis: Which variables impact a technology employee's comfort/willingness to discuss mental health with employers?
 - Team members created code for analyzing different demographics and their relationship to the question "Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)?"
 ### Gender: 
+- Code for gender analysis can be found here: 2016_data_explore_gender.ipynb
 - One variable analyzed in relation to comfort in discussing mental health with an employer was gender. We sought to determine if one gender grouping was more likely to feel comfortable discussing mental health with an employer than another. 
 - Our hypothesis was that female respondents would feel more comfortable discussing mental health with an employer than male and other respondents. 
 - Our null hypothesis was that there would be no difference between the gender groupings in terms of comfort in discussing mental health with an employer.

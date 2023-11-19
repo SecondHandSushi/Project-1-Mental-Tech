@@ -88,7 +88,7 @@
 ### Which variables impact a technology employee's comfort/willingness to discuss mental health with employers?
 1. **Gender** does not have a correlation to comfort in discussing mental health with employers
 2. **Remote Work** does not have a correlation to comfort in discussing mental health with employers
-3. **Current and Previous Diagnosis** has a positive correlation to comfort in discussing mental health with employers. Employees with a previous or potential previous mental health diagnosis found it easier to talk with their employer about mental health.
+3. **Previous Mental Health Diagnosis** has a positive correlation to comfort in discussing mental health with employers. Employees with a previous or potential previous mental health diagnosis found it easier to talk with their employer about mental health.
 ### Do employees feel more comfortable talking about physical or mental health?
 1. 
 ### What is the level of ease for taking a leave of absence for mental health in the tech industry?

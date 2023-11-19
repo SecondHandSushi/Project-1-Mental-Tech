@@ -63,7 +63,14 @@
 ### Company Size:
 - X
 ### Country Worked In:
-- X
+- The top 5 countries with the most survey responses were used for the analysis portion due to many countries having a very small amount of respondents.
+- Participants were asked if they would feel comfortable talking to their supervisor about mental health, and it was explored as to whether or not there is any correlation between where a person works and level of comfort.
+- The USA has a strong negative correlation, suggesting there is less comfort in talking to a supervisor about mental health.
+- The Netherlands had a very weak negative correlation on the other end of the spectrum suggesting a very weak relationship between country and comfort level.
+- Further analysis would need to be done to truly understand the nature of the relationship.
+- Reference Charts Below:
+- ![Alt text](Figures/Percentage_responses_country.png)
+- ![Alt text](Figures/Top_5_Countries_Correlation.png)
 ### Remote Work: 
 - According to the data, there is not a strong correlation between working remotely and the employee's comfort/willingness to discuss mental health with employers. But the data does show that workers who never work remotely had the lowest amount of 'No' responses, which may show that showing up to work in person could have a small impact on the comfort/willingness to discuss mental health with their supervisor.
 - Reference Chart Below:

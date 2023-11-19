@@ -3,7 +3,7 @@
 ### Team members:
 - Matthew Idle, Chad Fletcher, Lori Vitaioli, Brady Ogega, Cindy Hansel, Heather Shoberg, Jennifer White
 ### Project Description:
-- This project seeks to determine trends and relationships in tech industry employees’ comfort in discussing mental health with their employers. To do so, we will analyze survey data targeted towards employees in the tech industry around their mental health experiences in the workplace.
+- This project seeks to determine trends and relationships in tech industry employees’ comfort discussing mental health with their employers. To do so, we will analyze survey data targeted towards employees in the tech industry around their mental health experiences in the workplace.
 ### Research Questions:
 1. Which variables impact a technology employee's comfort/willingness to discuss mental health with employers?
 2. Do employees feel more comfortable talking about physical or mental health?

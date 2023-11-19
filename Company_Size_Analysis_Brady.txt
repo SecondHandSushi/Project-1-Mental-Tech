@@ -1,0 +1,8 @@
+### Company Size vs Comfortability of discussing MH with your direct Supervisor
+-The bar chart visualization shows the relationship between company size the x axis vs their response on the y axis.
+-3 out of the 6 company sizes had “Yes” as their most popular answer.
+-2 out of the 6 company sizes had “Maybe” as their most popular answer
+-Just 1 company size had “No” as their most popular answer
+-Companies with 25 or less employees were more likely to discuss mental health with their director supervisor than not.
+-Companies with over 1000 employees were less likely to discuss mental health with their director supervisor
+-As company size grew the amount of No’s decreased and Maybe’s increased. Companies with large employee populations tend to show a more uncertain attitude when discussing mental health with a superior.

@@ -5,9 +5,9 @@
 ### **Project Description:**
 - This project seeks to determine trends and relationships in tech industry employees’ comfort in discussing mental health with their employers.
 ### **Research Questions:**
-- Which variables impact a technology employee's comfort/willingness to discuss mental health with employers?
-- Do employees feel more comfortable talking about physical or mental health?
-- What is the level of ease for taking a leave of absence for mental health in the tech industry?
+1. Which variables impact a technology employee's comfort/willingness to discuss mental health with employers?
+2. Do employees feel more comfortable talking about physical or mental health?
+3. What is the level of ease for taking a leave of absence for mental health in the tech industry?
 ### **Datasets Used:**
 - https://osmihelp.org/research.html
 - We utilized data sets for the 2016, 2017, 2018, and 2019 OSMI Mental Health in Tech surveys.

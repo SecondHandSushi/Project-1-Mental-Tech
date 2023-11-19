@@ -69,3 +69,10 @@
 - These percentages were compared over time to see if there were changes in the level of comfort discussing a physical vs mental health issue with employers over time.
 ## Research Question 3 Analysis: What is the level of ease for taking a leave of absence for mental health in the tech industry?
 - Team members created code to analyze the level of ease in requesting time off for mental health.
+## Final Conclusions:
+1. Which variables impact a technology employee's comfort/willingness to discuss mental health with employers?
+  1. **Gender** does not have a correlation to comfort in discussing mental health with employers
+  2. **Remote Work** does not have a correlation to comfort in discussing mental health with employers
+3. Do employees feel more comfortable talking about physical or mental health?
+4. What is the level of ease for taking a leave of absence for mental health in the tech industry?
+  4. Negative correlation between difficulty requesting medical leave for mental health and comfort talking with an employer about mental health. As it becomes more difficult to ask for medical leave for mental health, employees are less likely to talk to their employer about mental health. 

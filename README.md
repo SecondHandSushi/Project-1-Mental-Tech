@@ -29,10 +29,17 @@
 - Has your employer ever formally discussed mental health (for example, as part of a wellness campaign or other official communication)?
 ### Data Cleanup:
 - Data cleanup can be found in two sets of code: Project-1.ipynb for cleaning only the 2016 survey and clean_2016-2019.ipynb for cleaning and merging all of the surveys. 
-- Filtered the survey questions to the ones we were interested in analyzing. Renamed these columns from questions to shortened names to easily call them into code later. 
+- Filtered the survey questions to the ones we were interested in analyzing. Renamed these columns from questions to shortened names to easily call them into code later.
+- ![image](https://github.com/SecondHandSushi/Project-1-Mental-Tech/assets/140283164/60a1e09b-3c5a-4d12-ab55-039d708005c4)
 - Cleaned the age column by looking at ages between 18 to 98, which removed some outliers (3 years old, 99 years old, 323 years old). We then created bins to group the ages into ranges (18-24, 25-34, 35-44, 45-54, 55-64, 65-74, 75+).
-- The original gender question in the surveys allowed for open-ended responses, which resulted in there being hundreds of options for gender in the survey. To allow for easier analysis of the data based on gender, we created three overarching gender categories: male, female, and other. We conducted research to determine where to best place the various responses. We did omit responses that did not align with a gender grouping, such as "nan", "none of your business", "I am a Wookie", and "God King of the Valajar". A list of the original gender responses and which category they were placed under can be found in the project presentation appendix. 
+- ![image](https://github.com/SecondHandSushi/Project-1-Mental-Tech/assets/140283164/bf55e4fe-1c2e-4185-a0f9-d6bf8cf39e5e)
+- ![image](https://github.com/SecondHandSushi/Project-1-Mental-Tech/assets/140283164/dc56b165-78b1-46a2-99ec-4c41f97fef84)
+- The original gender question in the surveys allowed for open-ended responses, which resulted in there being hundreds of options for gender in the survey. To allow for easier analysis of the data based on gender, we created three overarching gender categories: male, female, and other. We conducted research to determine where to best place the various responses. We did omit responses that did not align with a gender grouping, such as "nan", "none of your business", "I am a Wookie", and "God King of the Valajar". A list of the original gender responses and which category they were placed under can be found in the project presentation appendix.
+- ![image](https://github.com/SecondHandSushi/Project-1-Mental-Tech/assets/140283164/05f2b151-cee1-4cd1-aa5f-3c991e01f694)
+- ![image](https://github.com/SecondHandSushi/Project-1-Mental-Tech/assets/140283164/1bb9617e-961a-4d4e-920f-ca914929bb03)
+- ![image](https://github.com/SecondHandSushi/Project-1-Mental-Tech/assets/140283164/5ffd6625-188c-4a7b-8295-ff8f3b9cf730)
 - For blank responses, we utilized the "fillna" function and filled those with "No Response" as those we intentionally left blank by survey respondents.
+- ![image](https://github.com/SecondHandSushi/Project-1-Mental-Tech/assets/140283164/0c581b05-6110-422d-8100-cb80df4f8283)
 ### Methodology
 - For research question 1, we decided to look at the 2016 survey as this survey had the largest number of responses, so we felt it would be a better representation of the tech industry's workforce.
 - Project team members each analyzed a different demographic variable (gender, age range, company size, the country worked in, remote work or not, current mental health diagnosis, and previous mental health diagnosis) and the question "Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)?" to answer the research question.

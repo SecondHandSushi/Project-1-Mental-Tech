@@ -1,0 +1,6 @@
+Final Data Analysis for Mental Health in Tech Jobs
+
+Country Portion
+
+The top 5 countries with the most survey responses were used for the analysis portion due to many countries having a very small amount of respondants. Participants were asked if they would feel comfortable talking to their supervisor about mental health, and it was explored as to whether or not there is any correlation between where a person lives and level of comfort. The USA has a strong negative correlation, suggesting there is less comfort talking to a supervisor and the Netherlands had a very weak negative correlation on the other end of the spectrum suggesting a very weak relationship between country and comfort level.  Further analysis would need to be done to truly understand the nature of the relationship.
+

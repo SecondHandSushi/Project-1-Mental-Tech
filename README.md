@@ -98,12 +98,31 @@
 - Would you be willing to bring up a physical health issue with a potential employer in an interview?
 - Would you bring up a mental health issue with a potential employer in an interview?
 - These percentages were compared over time to see if there were changes in the level of comfort discussing a physical vs mental health issue with employers over time.
+- For this question we looked at the combined dataset from years 2016, 2017, 2018 and 2019. We chose this question inferring there may be a stigma associated with mental health issues that is stronger than that of physical health issues.
+### Overall:
+-When observing the following graphed data, it is quite clear that, overall, there is a large delta between those that would bring up a mental health issue in an interview and those that would bring up a physical health issue in an interview. Employees are less likely to bring up a mental health issue versus a physical issue. There were just over 6% that would bring up mental health issues and approximately 24% that would bring up physical health issues. There exists an even stronger difference when observing the "No" answers, with mental health at over 65% and physical health just under 34%.
+- ![Alt text](Figures/ph_v_mh_total_bar.png)
+### Timeline:
+- There is not a significant trend over the years we observed, as both physical health and mental health stay fairly steady. Additionally, it is clear that the differences between the two, physical health and mental health, remain large. This indicates a stronger stigma toward bringing up mental health issues.
+- ![Alt text](Figures/mh_ph_interview_over_years.png)
 ## Research Question 3 Analysis: What is the level of ease for taking a leave of absence for mental health in the tech industry?
 - Team members created code to analyze the level of ease in requesting time off for mental health.
+- For this question we looked at the combined dataset from years 2016, 2017, 2018 and 2019. We chose this question to observe if there were any trends in this area. It is an area where we might see stigma associated with mental health and the hesitation to discuss the subject or, in this case, request a leave of absence.
+### Overall:
+- Observing the entire combined dataset, we see that there is a stronger sense of ease toward asking for a leave than sense of difficulty. Over 38% indicated it would be easy to ask for a leave versus under 20% that would find it to be difficult.
+- ![Alt text](Figures/leave_comfort_total_bar.png)
+### Timeline:
+- Notably, the gap between a leave request being easy and being difficult grows over time. The percentages showing it being easy rise as the percentages showing it being difficult drop slightly over the 4 year span. In 2016, the difference in those indicating it being easy and being difficult was 12.81%, while that difference in 2019 was 23.93%.
+- ![Alt text](Figures/leave_comfort_timeline.png)
 ### Compare respondent’s comfort talking to current supervisor about mental health issues and how easy it is to take medical leave:
 - According to the 2016 data, the easier it is to request medical leave, the more likely respondents felt comfortable talking to their supervisor about mental health.
 - Reference Chart Below:
 - ![Alt text](Figures/diagnosis_fullmedicalleave.png)
+## Employer Discussion of Mental Health Effect on Comfort Level of Requesting Leave
+- For this topic we looked at whether or not the employer has officially discussed mental health with the respondent. We chose the combined dataset, 2016-2019 to analyze. The asumption was that if the answer was Yes, that would make it easier for an employee to request a leave of absence because of a mental health issue. 
+- As we observe in the following chart, the "Yes" responses (orange) tend toward the "Somewhat easy" category, while the "No" responses (blue) tend toward category "Neither easy nor difficult." This can be seen by the respective orange and blue mean lines. This indicates that if the employer discusses mental health with the employee, that employee is more likely to feel comfortable requesting a leave of absence because of a mental health issue.
+- ![Alt text](Figures/employer_discuss_effect.png)
+
 ## Final Conclusions:
 ### Which variables impact a technology employee's comfort/willingness to discuss mental health with employers?
 1. **Gender** does not have a correlation to comfort in discussing mental health with employers

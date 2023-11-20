@@ -63,7 +63,7 @@
 - A knee-jerk reaction is to look at the 25-34 age range and think you have a conclusion dead to rights, but what you have is just a lot more responses to the survey from the 25-34 age group. There is a slight overall uptick in the 25-34 age group responding with yes, but I don't think it's enough to draw any conclusions.
 - As we move our eyes over yonder to the box plot, the first thing that we notice are the bright red outliers. The median and interquartile range is nearly the same across the board, which can largely be attributed to the heavy showing from the 25-34 age range. Nothing noticeable stands out, with the exception of the outliers, but I attribute this to the avalanche of the 25-34 age group, and the fact that the sidewalk has to stop someplace.
 - - Reference Charts Below:
-- ![Alt text](Figures/Comfort_by_age_summ.pn)
+- ![Alt text](Figures/Comfort_by_age_summ.png)
 - ![Alt text](Figures/age_diff_req_timeoff.png)
 ### Company Size:
 - The bar chart visualization shows the relationship between company size on the x-axis vs their response on the y-axis.

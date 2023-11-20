@@ -100,10 +100,10 @@
 - These percentages were compared over time to see if there were changes in the level of comfort discussing a physical vs mental health issue with employers over time.
 - For this question we looked at the combined dataset from years 2016, 2017, 2018 and 2019. We chose this question inferring there may be a stigma associated with mental health issues that is stronger than that of physical health issues.
 ### Overall:
--When observing the following graphed data, it is quite clear that, overall, there is a large delta between those that would bring up a mental health issue in an interview and those that would bring up a physical health issue in an interview. Employees are less likely to bring up a mental health issue versus a physical issue. There were just over 6% that would bring up mental health issues and approximately 24% that would bring up physical health issues. There exists an even stronger difference when observing the "No" answers, with mental health at over 65% and physical health just under 34%.
+-When observing the following graphed data, we see there is a large delta between those that would bring up a mental health issue in an interview and those that would bring up a physical health issue in an interview. Employees are less likely to bring up a mental health issue versus a physical issue. There were just over 6% that would bring up mental health issues and approximately 24% that would bring up physical health issues. There exists an even stronger difference when observing the "No" answers, with mental health at over 65% and physical health just under 34%.
 - ![Alt text](Figures/ph_v_mh_total_bar.png)
 ### Timeline:
-- There is not a significant trend over the years we observed, as both physical health and mental health stay fairly steady. Additionally, it is clear that the differences between the two, physical health and mental health, remain large. This indicates a stronger stigma toward bringing up mental health issues.
+- There is not a significant trend over the years we observed, as both physical health and mental health stay fairly steady. Additionally, it is clear that the differences between the two, physical health and mental health, remain large. This indicates a stronger stigma toward bringing up mental health issues than bringing up physical health issues.
 - ![Alt text](Figures/mh_ph_interview_over_years.png)
 ## Research Question 3 Analysis: What is the level of ease for taking a leave of absence for mental health in the tech industry?
 - Team members created code to analyze the level of ease in requesting time off for mental health.
@@ -112,14 +112,14 @@
 - Observing the entire combined dataset, we see that there is a stronger sense of ease toward asking for a leave than sense of difficulty. Over 38% indicated it would be easy to ask for a leave versus under 20% that would find it to be difficult.
 - ![Alt text](Figures/leave_comfort_total_bar.png)
 ### Timeline:
-- Notably, the gap between a leave request being easy and being difficult grows over time. The percentages showing it being easy rise as the percentages showing it being difficult drop slightly over the 4 year span. In 2016, the difference in those indicating it being easy and being difficult was 12.81%, while that difference in 2019 was 23.93%.
+- Notably, the gap between a leave request being easy and being difficult grows over time. The percentages showing it being easy rise as the percentages showing it being difficult drop slightly over the 4 year span. In 2016, the difference in those indicating it being easy and those indicating it being difficult was 12.81%, while that difference in 2019 was 23.93%.
 - ![Alt text](Figures/leave_comfort_timeline.png)
 ### Compare respondent’s comfort talking to current supervisor about mental health issues and how easy it is to take medical leave:
 - According to the 2016 data, the easier it is to request medical leave, the more likely respondents felt comfortable talking to their supervisor about mental health.
 - Reference Chart Below:
 - ![Alt text](Figures/diagnosis_fullmedicalleave.png)
 ## Employer Discussion of Mental Health Effect on Comfort Level of Requesting Leave
-- For this topic we looked at whether or not the employer has officially discussed mental health with the respondent. We chose the combined dataset, 2016-2019 to analyze. The asumption was that if the answer was Yes, that would make it easier for an employee to request a leave of absence because of a mental health issue. 
+- For this topic we looked at whether or not the employer has officially discussed mental health with the respondent. We chose the combined dataset, 2016-2019 to analyze. The asumption was that if the answer was "Yes," that would make it easier for an employee to request a leave of absence because of a mental health issue. 
 - As we observe in the following chart, the "Yes" responses (orange) tend toward the "Somewhat easy" category, while the "No" responses (blue) tend toward category "Neither easy nor difficult." This can be seen by the respective orange and blue mean lines. This indicates that if the employer discusses mental health with the employee, that employee is more likely to feel comfortable requesting a leave of absence because of a mental health issue.
 - ![Alt text](Figures/employer_discuss_effect.png)
 
@@ -147,3 +147,23 @@
 - The survey should include categories for gender so analysts do not have to determine gender categories, the respondents themselves can
 - Keep the questions consistent, try to avoid changing the phrasing of the question and response options
 - Response option for choosing not to answer
+## Appendix
+#### OSMI 2016 Survey Data
+- https://osmi.typeform.com/report/Ao6BTw/U76z 
+#### Help for chart legend issues: 
+- https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.legend.html
+- https://stackoverflow.com/questions/35992492/savefig-cuts-off-title
+#### Code for help making bar chart:
+- https://pandas.pydata.org/pandas-docs/version/0.23.3/generated/pandas.DataFrame.plot.bar.html
+#### Correlation Coefficients
+- https://realpython.com/numpy-scipy-pandas-correlation-python/
+#### Gender terminology
+- https://www.uwmedicine.org/practitioner-resources/lgbtq/lgbtq-inclusion-glossary#:~:text=Assigned%20female%20at%20birth%2FAssigned,(assigned%20male%20at%20birth).
+- https://www.verywellmind.com/what-does-cishet-mean-5219425
+## Appendix - Gender Terms
+#### Male
+- 'Male', 'male', 'Male ', 'M', 'm', 'man', 'Cis male', 'Male.', 'Male (cis)', 'Man', 'Sex is male', 'cis male', 'Malr', 'Dude', "I'm a man why didn't you make this a drop down question. You should of asked sex? And I would of answered yes please. Seriously how much text can this take? ", 'mail', 'male ', 'Cis Male', 'cisdude', 'cis man', 'MALE', 'cis-male', 'Mail', 'cis hetero male', "male (hey this is the tech industry you're talking about)", 'Cis-male', 'Male, cis', 'cis male ', 'dude', 'Ostensibly Male', 'male, born with xy chromosoms', 'Malel', 'Cis-male', 'Cisgender male', 'SWM', 'Let\'s keep it simple and say "male"', 'Identify as male', 'Masculine', 'Cishet male', 'masculino', 'Make', 'CIS Male'
+#### Female
+- 'Female', 'female', 'I identify as female.', 'female ', 'Female assigned at birth ', 'F', 'Woman', 'f', 'Cis female ', 'Female ', 'woman', 'female/woman', 'Cisgender Female', 'fem', 'Female (props for making this a freeform field, though)', ' Female', 'Cis-woman', 'female-bodied; no feelings about gender', 'AFAB', 'fm', 'femalw', 'femail', 'female (cis)', 'My sex is female.', 'female (cisgender)', 'Female (cis) ', 'Woman-identified', 'cis-Female', 'cis female', 'F, cisgender', 'I identify as female', '*shrug emoji* (F)', 'Cis woman', 'Female (cisgender)', 'Cis-Female', 'Cisgendered woman', 'cisgender female', 'Female-identified', 'cis woman', 'femmina', 'Femile', 'Female (cis)'
+#### Other
+- 'Bigender', 'non-binary', 'Transitioned, M2F', 'Genderfluid (born female)', 'Other/Transfeminine', 'Female or Multi-Gender Femme', 'Androgynous', 'male 9:1 female, roughly', 'Other', 'nb masculine', 'genderqueer', 'Human', 'Genderfluid', 'Enby', 'genderqueer woman', 'mtf', 'Queer', 'Agender', 'Fluid', 'Male/genderqueer', 'Nonbinary', 'human', 'Unicorn', 'Male (trans, FtM)', 'Genderqueer', 'Genderflux demi-girl', 'Transgender woman', 'male/androgynous ', 'uhhhhhhhhh fem genderqueer?', 'Non-binary', 'Agender/genderfluid', 'Male-ish', 'Contextual', 'Non binary', 'Genderqueer demigirl', 'Genderqueer/non-binary', 'nonbinary', 'Female-ish', 'trans woman', 'Transfeminine', 'Male (or female, or both)', 'Trans man', 'transgender', 'non binary', 'Female/gender non-binary.', 'She/her/they/them', 'NB', 'Nonbinary/femme', 'gender non-conforming woman', 'Trans woman', 'genderfluid', 'Demiguy', 'none', 'Trans female', 'agender', 'Questioning', 'Agender trans woman', 'Trans non-binary/genderfluid', 'Non-binary and gender fluid'

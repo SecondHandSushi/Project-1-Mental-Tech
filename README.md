@@ -59,7 +59,12 @@
 - Reference Chart Below:
 - ![Alt text](Figures/Comfort_by_Gender_Proportions_All.png)
 ### Age Range:
-- X
+- Looking at the bar graph with regards to how comfortable someone feels talking to their supervisor about mental health, the conclusion can be drawn that age is not a factor, or at least very little of a factor.
+- A knee-jerk reaction is to look at the 25-34 age range and think you have a conclusion dead to rights, but what you have is just a lot more responses to the survey from the 25-34 age group. There is a slight overall uptick in the 25-34 age group responding with yes, but I don't think it's enough to draw any conclusions.
+- As we move our eyes over yonder to the box plot, the first thing that we notice are the bright red outliers. The median and interquartile range is nearly the same across the board, which can largely be attributed to the heavy showing from the 25-34 age range. Nothing noticeable stands out, with the exception of the outliers, but I attribute this to the avalanche of the 25-34 age group, and the fact that the sidewalk has to stop someplace.
+- - Reference Charts Below:
+- ![Alt text](Figures/Comfort_by_age_summ.pn)
+- ![Alt text](Figures/age_diff_req_timeoff.png)
 ### Company Size:
 - The bar chart visualization shows the relationship between company size on the x-axis vs their response on the y-axis.
 - 3 out of the 6 company sizes had “Yes” as their most popular answer.
@@ -103,9 +108,10 @@
 ### Which variables impact a technology employee's comfort/willingness to discuss mental health with employers?
 1. **Gender** does not have a correlation to comfort in discussing mental health with employers
 2. **Remote Work** does not have a correlation to comfort in discussing mental health with employers
-3. **Previous Mental Health Diagnosis** has a positive correlation to comfort in discussing mental health with employers. Employees with a previous or potential previous mental health diagnosis found it easier to talk with their employer about mental health.
-4. **Country Correlations:** The USA has a strong negative correlation, suggesting there is less comfort in talking to a supervisor about mental health. The Netherlands had a very weak negative correlation on the other end of the spectrum suggesting a very weak relationship between country and comfort level.
-5. **Company Size Correlations:** As company size grew the amount of No’s decreased and Maybe’s increased. Companies with large employee populations tend to show a more uncertain attitude when discussing mental health with a superior.
+3. **Age** does not have a correlation to comfort in discussing mental health with employers
+4. **Previous Mental Health Diagnosis** has a positive correlation to comfort in discussing mental health with employers. Employees with a previous or potential previous mental health diagnosis found it easier to talk with their employer about mental health.
+5. **Country Correlations:** The USA has a strong negative correlation, suggesting there is less comfort in talking to a supervisor about mental health. The Netherlands had a very weak negative correlation on the other end of the spectrum suggesting a very weak relationship between country and comfort level.
+6. **Company Size Correlations:** As company size grew the amount of No’s decreased and Maybe’s increased. Companies with large employee populations tend to show a more uncertain attitude when discussing mental health with a superior.
 ### Do employees feel more comfortable talking about physical or mental health?
 1. 
 ### What is the level of ease for taking a leave of absence for mental health in the tech industry?

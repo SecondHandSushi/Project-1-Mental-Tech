@@ -136,6 +136,8 @@
 1. There is a distinct gap between talking about mental health vs. physical health in an interview. Employees are more willing to discuss physical health than mental health. This stigma does not change significantly over time.
 ### What is the level of ease for taking a leave of absence for mental health in the tech industry?
 1. There is a positive correlation between the ease of requesting medical leave for mental health and comfort in talking with an employer about mental health. As it becomes easier to ask for medical leave for mental health, employees are more likely to talk to their employer about mental health.
+2. Overall, more employees find it easy to request a leave than find it difficult. Over time, this gap widens slightly, with ease rising and difficulty lowering.
+3. On average, respondents whose employers have formally discussed mental health with them are more comfortable requesting a leave of absence for a mental health issue.
 ## Next Steps:
 ### Future Research Projects
 - Impact of COVID on mental health of tech employees

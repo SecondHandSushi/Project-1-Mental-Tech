@@ -1,0 +1,12 @@
+### Gender
+
+- One variable analyzed in relation to comfort discussing mental health with an employer was gender. We sought to determine if one gender grouping was more likely to feel comfortable discussing mental health with an employer than another. 
+- Our hypothesis was that female respondents would feel more comfortable discussing mental health with an employer than male and other respondents. 
+- Our null hypothesis was that there would be no difference between the gender groupings in terms of comfort discussing mental health with an employer.
+- The bar chart below was created by analyzing the "gender" and "comf_discuss_mh_disorder_cur_superv" columns in the "2016-cleaned.csv". We determined that it was best to look at the proportions of responses to the questions instead of the counts due the unbalanced number of respondents by gender grouping. There were 1052 male respondents, 340 female respondents, and 31 other gender respondents. By looking at the percentages of responses for each gender grouping, this made it easier to compare the groups to each other. 
+- The first observation made when looking at the gender graph was that the three gender groupings responses seemed to trend in the same direction: "yes" being the highest proportion response, followed by "maybe", then "no", and finally "no response" being the lowest proportion response. Additionally, the percentages of respondents saying "yes", "no", and "maybe" by gender grouping were very close to each other, with the largest difference being 4% between female and other respondents in the maybe category. 
+- To accept our hypothesis, we would have needed to see lower proportions of male and other gender respondents answering "yes" and higher proportions of those same two groups responding "no" or "maybe". Based on our observations of the data, we do not see a large difference in the proportion of "yes" responses to the question. Therefore, we reject our hypothesis and accept our null hypothesis.
+- To answer the research question, gender of respondent does not seem to have a noticeable impact on a technology employee’s comfort discussing mental health with their employer.
+
+
+![Alt text](Figures/Comfort_by_Gender_Proportions_All.png)

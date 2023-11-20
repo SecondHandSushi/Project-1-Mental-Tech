@@ -46,7 +46,7 @@
 - For questions 2 and 3, the surveys for 2016, 2017, 2018, and 2019 were combined into one data frame to be able to look at data over time.
 - Some issues we encountered when cleaning and analyzing the data included: the open-ended response for gender, inconsistency in the number of questions in the various surveys as well as the total number of responses (which decreased over time), inconsistency with the phrasing of questions from survey to survey, changing the responses options for questions from survey to survey, and the most recent survey (2019) did not include a question around remote workers.
 ## Research Question 1 Analysis: Which variables impact a technology employee's comfort/willingness to discuss mental health with employers?
-- Team members created code for analyzing different demographics and their relationship to the question "Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)?"
+- Team members created code for analyzing different demographics and their relationship to the question **"Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)?"**
 ### Gender: 
 - Code for gender analysis can be found here: 2016_data_explore_gender.ipynb
 - One variable analyzed in relation to comfort in discussing mental health with an employer was gender. We sought to determine if one gender grouping was more likely to feel comfortable discussing mental health with an employer than another. 
@@ -61,7 +61,15 @@
 ### Age Range:
 - X
 ### Company Size:
-- X
+-The bar chart visualization shows the relationship between company size on the x-axis vs their response on the y-axis.
+-3 out of the 6 company sizes had “Yes” as their most popular answer.
+-2 out of the 6 company sizes had “Maybe” as their most popular answer
+-Just 1 company size had “No” as their most popular answer
+-Companies with 25 or less employees were more likely to discuss mental health with their director supervisor than not.
+-Companies with over 1000 employees were less likely to discuss mental health with their director supervisor
+-As company size grew the amount of No’s decreased and Maybe’s increased. Companies with large employee populations tend to show a more uncertain attitude when discussing mental health with a superior.
+- Reference Chart Below:
+- ![Alt text](Figures/Summary.png)
 ### Country Worked In:
 - The top 5 countries with the most survey responses were used for the analysis portion due to many countries having a very small amount of respondents.
 - Participants were asked if they would feel comfortable talking to their supervisor about mental health, and it was explored as to whether or not there is any correlation between where a person works and level of comfort.

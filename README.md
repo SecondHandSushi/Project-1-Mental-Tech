@@ -114,7 +114,7 @@
 6. **Country Correlations:** The USA has a strong negative correlation, suggesting there is less comfort in talking to a supervisor about mental health. The Netherlands had a very weak negative correlation on the other end of the spectrum suggesting a very weak relationship between country and comfort level.
 7. **Company Size Correlations:** As company size grew the amount of No’s decreased and Maybe’s increased. Companies with large employee populations tend to show a more uncertain attitude when discussing mental health with a superior.
 ### Do employees feel more comfortable talking about physical or mental health?
-1. There is a distinct gap between talking about mental health vs. physical health in an interview. This stigma does not change significantly over time.
+1. There is a distinct gap between talking about mental health vs. physical health in an interview. Employees are more willing to discuss physical health than mental health. This stigma does not change significantly over time.
 ### What is the level of ease for taking a leave of absence for mental health in the tech industry?
 1. There is a positive correlation between the ease of requesting medical leave for mental health and comfort in talking with an employer about mental health. As it becomes easier to ask for medical leave for mental health, employees are more likely to talk to their employer about mental health.
 ## Next Steps:
